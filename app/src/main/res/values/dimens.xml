@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="divider_size">1.5dp</dimen>
+    <dimen name="chat_divider_padding">10dp</dimen>
+    <dimen name="message_padding">6dp</dimen>
+    <dimen name="message_date_size">9sp</dimen>
+    <dimen name="message_text_max_width">170dp</dimen>
+</resources>

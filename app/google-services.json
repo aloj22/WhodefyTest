@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "837869832357",
+    "firebase_url": "https://whodefytest.firebaseio.com",
+    "project_id": "whodefytest",
+    "storage_bucket": "whodefytest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837869832357:android:cac8de32738ba454",
+        "android_client_info": {
+          "package_name": "com.aloj.whodefytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837869832357-7a9vp5meella4bqscq2mjichhs0otdni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzK7C--nAVzr7H2F_nrkdrsrANtbJpEfc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
